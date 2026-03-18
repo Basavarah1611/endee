@@ -1,0 +1,6 @@
+Python is a programming language.
+Machine learning is a subset of AI.
+Kotlin supports data classes and singleton objects.
+Java is used for building enterprise applications.
+Artificial Intelligence enables machines to think and learn.
+Data science involves statistics and programming.
